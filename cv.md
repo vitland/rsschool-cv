@@ -1,11 +1,10 @@
 # Kikodze Viktor
-___
 ### Contacts:
 * **telegram:** @vitland
 * **email:** vkikodze@gmail.com
 * **discord:** vitland#8893
 ___
-I always wanted to do programming, but circumstances did not allow me to take it seriously. Now I decided to make my dream a reality. My goal is to get enough knowledge and practice to get a job.
+I've always wanted to be a developer, but circumstances did not allow me to take it seriously. Now I decided to make my dream a reality. My goal is to get enough knowledge and practice to get a job.
 ___
 ### Skills and Proficiency:
 
@@ -17,7 +16,7 @@ ___
 * VSCode, WebStorm
 ___
 ### Code example:
-```ecmascript 6
+```
 function arraysSimilar(arr1, arr2) {
   if (arr1.length !== arr2.length) return false
   
