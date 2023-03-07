@@ -29,3 +29,11 @@ function arraysSimilar(arr1, arr2) {
   return false
 }
 ```
+___
+### Education
+* **2022-2023 Yandex Practicum** Web-development
+* **2008-2012 Moscow Pedagogical State University** Language interpretation and translation
+___
+### Language
+* Russian - native
+* English -  C2
