@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vitland.github.io/rsschool-cv/cv
