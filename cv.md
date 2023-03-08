@@ -50,4 +50,4 @@ function numberOfPairs(gloves)
 
 ### Language
 * Russian - native
-* English -  C1
+* English - C1
